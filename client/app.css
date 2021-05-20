@@ -1,0 +1,18 @@
+.mid {
+   margin-top:10%;
+   margin-bottom:10%;
+   margin-left:30%;
+   margin-right: 30%;
+
+   border-color: black;
+   border-style: solid;
+
+   padding: 2%;
+   text-align: center;
+}
+
+.title {
+    margin-left:40%;
+    margin-top: 5%;
+}
+
